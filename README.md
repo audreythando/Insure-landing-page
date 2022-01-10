@@ -1,6 +1,6 @@
 Insure-landing-page 
 
-Demo : 
+Demo : https://audreythando.github.io/Insure-landing-page/
 
 Stack : 
 HTML + CSS
